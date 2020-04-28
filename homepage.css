@@ -1,0 +1,68 @@
+body,html {
+    background-color: #ffe6e6;
+
+}
+
+h2 {
+  font-family: 'Zilla Slab', serif;
+  font-size: 6em;
+  color: white;
+  padding-left: 50px;
+  margin-block-start: 10px;
+}
+
+h1 {
+  font-size: 7em;
+  color: #b3cce6;
+  padding-left: 300px;
+  margin-block-start: 0px;
+
+}
+
+p {
+  font-family: 'Baloo Bhaina 2', cursive;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    color: #b3cce6;
+    margin-left: 300px;
+}
+
+img {
+  padding-right: 150px;
+}
+
+#marble {
+   padding-left: 700px;
+   padding-block-start: 50px;
+}
+
+.tooltip{
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip .tooltipright{
+  visibility: hidden;
+  width: 700px;
+  font-size: 20px;
+  font-family: 'Baloo Bhaina 2', cursive;
+  background-color: white;
+  color: #c1c1f0;
+  text-align: center;
+  border:2px solid white;
+  border-radius: 30px;
+  padding: 20px ;
+  position: absolute;
+  z-index: 1;
+  top: 10%;
+  left: 170%;
+  margin-left: -50px;
+  opacity: 0;
+  transition: opacity 1%;
+}
+
+.tooltip:hover .tooltipright{
+  visibility: visible;
+  opacity: 1;
+}
