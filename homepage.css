@@ -4,38 +4,59 @@ body,html {
 }
 
 h2 {
-  font-family: 'Zilla Slab', serif;
+  font-family: 'Slackey', cursive;
   font-size: 6em;
   color: white;
   padding-left: 50px;
   margin-block-start: 10px;
+  margin-block-end: 50px;
 }
 
 h1 {
+  font-family: 'Aclonica', sans-serif;
   font-size: 7em;
-  color: #b3cce6;
-  padding-left: 300px;
+  color: #7da6cf;
+  padding-left: 270px;
+  padding-right: 50px;
   margin-block-start: 0px;
-
+  margin-block-end: 20px
 }
 
 p {
-  font-family: 'Baloo Bhaina 2', cursive;
+    font-family: 'Slackey', cursive;
     font-size: 30px;
     display: flex;
     flex-direction: column;
-    color: #b3cce6;
-    margin-left: 300px;
+    color: #ecf2f8;
+    margin-left: 270px;
+}
+
+p:hover {
+  color: #006699;
 }
 
 img {
   padding-right: 150px;
 }
 
-#marble {
+.marble {
    padding-left: 700px;
-   padding-block-start: 50px;
+   position: relative;
+   display: inline-block;
 }
+
+.marble .img-top {
+    display: none;
+    position: absolute;
+    padding-left: 700px;
+    top: 0;
+    left: 0;
+    z-index: 99;
+}
+
+.marble:hover .img-top {
+        display: inline;
+    }
 
 .tooltip{
   position: relative;
@@ -48,7 +69,7 @@ img {
   font-size: 20px;
   font-family: 'Baloo Bhaina 2', cursive;
   background-color: white;
-  color: #c1c1f0;
+  color: #006699;
   text-align: center;
   border:2px solid white;
   border-radius: 30px;
@@ -65,4 +86,9 @@ img {
 .tooltip:hover .tooltipright{
   visibility: visible;
   opacity: 1;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+  }
 }
