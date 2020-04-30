@@ -1,7 +1,27 @@
 body,html {
+    /* background: url("pic/background.png");
+    height: 500px; /* You must set a specified height */
+    /* background-position: center center; /* Center the image */
+    /* background-repeat: no-repeat; /* Do not repeat the image */
+    /* background-attachment: fixed;
+    background-size: cover  */
     background-color: #ffe6e6;
+}
+
+.jar img{
+  width: 500px;
+  height:800px;
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-block-start: 50px;
 
 }
+
+
+
+
 
 @media only screen and (max-width: 600px) {
   body {
