@@ -36,6 +36,10 @@ body,html {
   opacity: 1;
 }
 
+.pink:hover circle{
+  fill: #d65c5c;
+}
+
 /* ```````````````````````````````````````````````````````````````````````````````````````````````` */
 
 .tooltip2{
@@ -71,6 +75,110 @@ body,html {
   fill: #538cc6;
 }
 
+/* ```````````````````````````````````````````````````````````````````````````````````````````````` */
+
+.tooltip3{
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip3 .tooltipright3{
+  visibility: hidden;
+  width: 100px;
+  font-size: 20px;
+  background-color: transparent;
+  color: #006699;
+  text-align: center;
+  border:2px solid white;
+  border-radius: 30px;
+  padding: 20px ;
+  position: absolute;
+  z-index: 1;
+  top:435%;
+  left: -140%;
+  margin-left: -50px;
+  opacity: 0;
+  transition: opacity 1%;
+}
+
+.tooltip3:hover .tooltipright3{
+  visibility: visible;
+  opacity: 1;
+}
+
+.green:hover circle{
+  fill: #527a5f;
+}
+
+/* ```````````````````````````````````````````````````````````````````````````````````````````````` */
+
+.tooltip4{
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip4 .tooltipright4{
+  visibility: hidden;
+  width: 100px;
+  font-size: 20px;
+  background-color: transparent;
+  color: #006699;
+  text-align: center;
+  border:2px solid white;
+  border-radius: 30px;
+  padding: 20px ;
+  position: absolute;
+  z-index: 1;
+  top:140%;
+  left: 117%;
+  margin-left: -50px;
+  opacity: 0;
+  transition: opacity 1%;
+}
+
+.tooltip4:hover .tooltipright4{
+  visibility: visible;
+  opacity: 1;
+}
+
+#purple:hover circle{
+  fill: #735095;
+}
+
+/* ```````````````````````````````````````````````````````````````````````````````````````````````` */
+
+.tooltip5{
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip5 .tooltipright5{
+  visibility: hidden;
+  width: 100px;
+  font-size: 20px;
+  background-color: transparent;
+  color: #006699;
+  text-align: center;
+  border:2px solid white;
+  border-radius: 30px;
+  padding: 20px ;
+  position: absolute;
+  z-index: 1;
+  top:225%;
+  left: 420%;
+  margin-left: -50px;
+  opacity: 0;
+  transition: opacity 1%;
+}
+
+.tooltip5:hover .tooltipright5{
+  visibility: visible;
+  opacity: 1;
+}
+
+#yellow:hover circle{
+  fill: #fbd951;
+}
 
 
 
