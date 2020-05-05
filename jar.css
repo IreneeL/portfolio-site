@@ -185,8 +185,8 @@ body,html {
 #myImg {
   /* border-radius: 5px; */
   cursor: pointer;
-  padding-left: 300px;
-  padding-top: 480px;
+  margin-top:400px;
+  margin-left: 400px;
   transition: 0.3s;
 }
 
