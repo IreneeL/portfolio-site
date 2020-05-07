@@ -134,7 +134,7 @@ var modalImg6 = document.getElementById("img016");
 var captionText6 = document.getElementById("caption6");
 img6.onclick = function(){
   modal6.style.display = "block";
-  modalImg6.src = "pic/draw2.jpg";
+  modalImg6.src = "pic/project3.jpg";
   captionText6.innerHTML = this.alt;
 }
 
@@ -144,4 +144,47 @@ var span6 = document.getElementsByClassName("close6")[0];
 // When the user clicks on <span> (x), close the modal
 span6.onclick = function() {
  modal6.style.display = "none";
+}
+
+// ``````````````````````````````````````````````````````````purple video````````````````
+var modal7 = document.getElementById("myModal7");
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img7 = document.getElementById("myImg7");
+var modalImg7 = document.getElementById("img017");
+var captionText7 = document.getElementById("caption7");
+img7.onclick = function(){
+  modal7.style.display = "block";
+  modalImg7.src = "pic/video2.JPG";
+  captionText7.innerHTML = this.alt;
+}
+
+// Get the <span> element that closes the modal
+var span7 = document.getElementsByClassName("close7")[0];
+
+// When the user clicks on <span> (x), close the modal
+span7.onclick = function() {
+ modal7.style.display = "none";
+}
+
+
+// `````````````````````````````````````````````````````````yellow project```````````````
+var modal8 = document.getElementById("myModal8");
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img8 = document.getElementById("myImg8");
+var modalImg8 = document.getElementById("img018");
+var captionText8 = document.getElementById("caption8");
+img8.onclick = function(){
+  modal8.style.display = "block";
+  modalImg8.src = "pic/project2.jpg";
+  captionText8.innerHTML = this.alt;
+}
+
+// Get the <span> element that closes the modal
+var span8 = document.getElementsByClassName("close8")[0];
+
+// When the user clicks on <span> (x), close the modal
+span8.onclick = function() {
+ modal8.style.display = "none";
 }
