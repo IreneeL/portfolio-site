@@ -70,7 +70,7 @@ var modalImg3 = document.getElementById("img013");
 var captionText3 = document.getElementById("caption3");
 img3.onclick = function(){
   modal3.style.display = "block";
-  modalImg3.src = "pic/icon.png";
+  modalImg3.src = "pic/video.jpg";
   captionText3.innerHTML = this.alt;
 }
 
@@ -91,7 +91,7 @@ var modalImg4 = document.getElementById("img014");
 var captionText4 = document.getElementById("caption4");
 img4.onclick = function(){
   modal4.style.display = "block";
-  modalImg4.src = "pic/icon.png";
+  modalImg4.src = "pic/card.jpg";
   captionText4.innerHTML = this.alt;
 }
 
