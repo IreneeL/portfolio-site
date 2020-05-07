@@ -134,7 +134,7 @@ var modalImg6 = document.getElementById("img016");
 var captionText6 = document.getElementById("caption6");
 img6.onclick = function(){
   modal6.style.display = "block";
-  modalImg6.src = "pic/pic2.jpeg";
+  modalImg6.src = "pic/draw2.jpg";
   captionText6.innerHTML = this.alt;
 }
 
