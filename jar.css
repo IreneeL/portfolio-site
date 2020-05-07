@@ -209,7 +209,7 @@ h2 {
   display: none; /* Hidden by default */
   position: fixed; /* Stay in place */
   z-index: 1; /* Sit on top */
-  padding-top: 100px; /* Location of the box */
+  padding-top: 50px; /* Location of the box */
   left: 0;
   top: 0;
   width: 100%; /* Full width */
@@ -223,8 +223,8 @@ h2 {
 .modal-content {
   margin: auto;
   display: block;
-  width: 80%;
-  max-width: 700px;
+  width: 90%;
+  max-width: 950px;
 }
 
 /* Caption of Modal Image (Image Text) - Same Width as the Image */
@@ -237,6 +237,8 @@ h2 {
   color: #ccc;
   padding: 10px 0;
   height: 150px;
+  font-size: 23px;
+  padding-top: 3%;
 }
 
 /* Add Animation - Zoom in the Modal */
@@ -288,7 +290,7 @@ h2 {
   display: none; /* Hidden by default */
   position: fixed; /* Stay in place */
   z-index: 1; /* Sit on top */
-  padding-top: 100px; /* Location of the box */
+  padding-top: 50px; /* Location of the box */
   left: 0;
   top: 0;
   width: 100%; /* Full width */
@@ -302,8 +304,8 @@ h2 {
 .modal-content1 {
   margin: auto;
   display: block;
-  width: 80%;
-  max-width: 700px;
+  width: 90%;
+  max-width: 950px;
 }
 
 /* Caption of Modal Image (Image Text) - Same Width as the Image */
@@ -315,6 +317,8 @@ h2 {
   text-align: center;
   color: #ccc;
   padding: 10px 0;
+  font-size: 23px;
+  padding-top: 3%;
   height: 150px;
 }
 
@@ -363,7 +367,7 @@ h2 {
   display: none; /* Hidden by default */
   position: fixed; /* Stay in place */
   z-index: 1; /* Sit on top */
-  padding-top: 100px; /* Location of the box */
+  padding-top: 50px; /* Location of the box */
   left: 0;
   top: 0;
   width: 100%; /* Full width */
@@ -377,8 +381,8 @@ h2 {
 .modal-content2 {
   margin: auto;
   display: block;
-  width: 80%;
-  max-width: 700px;
+  width: 90%;
+  max-width: 950px;
 }
 
 /* Caption of Modal Image (Image Text) - Same Width as the Image */
@@ -391,6 +395,8 @@ h2 {
   color: #ccc;
   padding: 10px 0;
   height: 150px;
+  font-size: 23px;
+  padding-top: 3%;
 }
 
 /* Add Animation - Zoom in the Modal */
@@ -438,7 +444,7 @@ h2 {
   display: none; /* Hidden by default */
   position: fixed; /* Stay in place */
   z-index: 1; /* Sit on top */
-  padding-top: 100px; /* Location of the box */
+  padding-top: 50px; /* Location of the box */
   left: 0;
   top: 0;
   width: 100%; /* Full width */
@@ -452,8 +458,8 @@ h2 {
 .modal-content3 {
   margin: auto;
   display: block;
-  width: 80%;
-  max-width: 700px;
+  width: 90%;
+  max-width: 950px;
 }
 
 /* Caption of Modal Image (Image Text) - Same Width as the Image */
@@ -466,6 +472,8 @@ h2 {
   color: #ccc;
   padding: 10px 0;
   height: 150px;
+  font-size: 23px;
+  padding-top: 3%;
 }
 
 /* Add Animation - Zoom in the Modal */
@@ -513,7 +521,7 @@ h2 {
   display: none; /* Hidden by default */
   position: fixed; /* Stay in place */
   z-index: 1; /* Sit on top */
-  padding-top: 100px; /* Location of the box */
+  padding-top: 50px; /* Location of the box */
   left: 0;
   top: 0;
   width: 100%; /* Full width */
@@ -527,8 +535,8 @@ h2 {
 .modal-content4 {
   margin: auto;
   display: block;
-  width: 80%;
-  max-width: 700px;
+  width: 90%;
+  max-width: 950px;
 }
 
 /* Caption of Modal Image (Image Text) - Same Width as the Image */
@@ -541,6 +549,8 @@ h2 {
   color: #ccc;
   padding: 10px 0;
   height: 150px;
+  font-size: 23px;
+  padding-top: 3%;
 }
 
 /* Add Animation - Zoom in the Modal */
@@ -588,7 +598,7 @@ h2 {
   display: none; /* Hidden by default */
   position: fixed; /* Stay in place */
   z-index: 1; /* Sit on top */
-  padding-top: 100px; /* Location of the box */
+  padding-top: 50px; /* Location of the box */
   left: 0;
   top: 0;
   width: 100%; /* Full width */
@@ -602,8 +612,8 @@ h2 {
 .modal-content5 {
   margin: auto;
   display: block;
-  width: 80%;
-  max-width: 700px;
+  width: 90%;
+  max-width: 950px;
 }
 
 /* Caption of Modal Image (Image Text) - Same Width as the Image */
@@ -616,6 +626,8 @@ h2 {
   color: #ccc;
   padding: 10px 0;
   height: 150px;
+  font-size: 23px;
+  padding-top: 3%;
 }
 
 /* Add Animation - Zoom in the Modal */
@@ -663,7 +675,7 @@ h2 {
   display: none; /* Hidden by default */
   position: fixed; /* Stay in place */
   z-index: 1; /* Sit on top */
-  padding-top: 100px; /* Location of the box */
+  padding-top: 50px; /* Location of the box */
   left: 0;
   top: 0;
   width: 100%; /* Full width */
@@ -677,8 +689,8 @@ h2 {
 .modal-content6 {
   margin: auto;
   display: block;
-  width: 80%;
-  max-width: 700px;
+  width: 90%;
+  max-width: 950px;
 }
 
 /* Caption of Modal Image (Image Text) - Same Width as the Image */
@@ -691,6 +703,8 @@ h2 {
   color: #ccc;
   padding: 10px 0;
   height: 150px;
+  font-size: 23px;
+  padding-top: 3%;
 }
 
 /* Add Animation - Zoom in the Modal */
