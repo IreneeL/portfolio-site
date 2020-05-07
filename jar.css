@@ -131,8 +131,8 @@ body,html {
   padding: 20px ;
   position: absolute;
   z-index: 1;
-  top:140%;
-  left: 117%;
+  top:330%;
+  left: -275%;
   margin-left: -50px;
   opacity: 0;
   transition: opacity 1%;
@@ -166,8 +166,8 @@ body,html {
   padding: 20px ;
   position: absolute;
   z-index: 1;
-  top:-20%;
-  left: 420%;
+  top:30%;
+  left: 25%;
   margin-left: -50px;
   opacity: 0;
   transition: opacity 1%;
