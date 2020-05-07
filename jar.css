@@ -9,6 +9,16 @@ body,html {
     background-color: #ffe6e6;
 }
 
+h2 {
+  font-family: 'Slackey', cursive;
+  cursor: pointer;
+  font-size: 20px;
+  color: white;
+  padding-left: 85%;
+  padding-top: -10%;
+
+}
+
 .tooltip1{
   position: relative;
   display: inline-block;
