@@ -16,7 +16,10 @@ h2 {
   color: white;
   padding-left: 85%;
   padding-top: -10%;
+}
 
+h2:hover {
+  color: #006699;
 }
 
 .tooltip1{
@@ -71,8 +74,8 @@ h2 {
   padding: 20px ;
   position: absolute;
   z-index: 1;
-  top: 220%;
-  left: -40%;
+  top: 335%;
+  left: 300%;
   margin-left: -50px;
   opacity: 0;
   transition: opacity 1%;
@@ -141,8 +144,8 @@ h2 {
   padding: 20px ;
   position: absolute;
   z-index: 1;
-  top:325%;
-  left: -275%;
+  top:56%;
+  left: 100%;
   margin-left: -50px;
   opacity: 0;
   transition: opacity 1%;
@@ -153,8 +156,8 @@ h2 {
   opacity: 1;
 }
 
-#purple:hover circle{
-  fill: #735095;
+#yellow:hover circle{
+  fill: #fbd951;
 }
 
 /* ```````````````````````````````````````````````````````````````````````````````````````````````` */
@@ -176,8 +179,8 @@ h2 {
   padding: 20px ;
   position: absolute;
   z-index: 1;
-  top:30%;
-  left: 25%;
+  top: 135%;
+  left: 63%;
   margin-left: -50px;
   opacity: 0;
   transition: opacity 1%;
@@ -188,8 +191,8 @@ h2 {
   opacity: 1;
 }
 
-#yellow:hover circle{
-  fill: #fbd951;
+#purple:hover circle{
+  fill: #735095;
 }
 
 /* ````````````````````````````````````````````````````````````pink photo modal`````````````` */
@@ -908,16 +911,13 @@ h2 {
 
 
 
-
-
-
-
-
-
-
-
-
 @media only screen and (max-width: 600px) {
+
   body {
-  }
 }
+
+  .modal8 {
+    width: 50%; /* Full width */
+    height: 50%; /* Full height */
+
+  }
