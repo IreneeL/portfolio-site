@@ -36,7 +36,7 @@ h2 {
   padding: 20px ;
   position: absolute;
   z-index: 1;
-  top: 45%;
+  top: 47%;
   left: 70%;
   margin-left: -80px;
   opacity: 0;
@@ -71,7 +71,7 @@ h2 {
   padding: 20px ;
   position: absolute;
   z-index: 1;
-  top: 240%;
+  top: 220%;
   left: -40%;
   margin-left: -50px;
   opacity: 0;
@@ -141,7 +141,7 @@ h2 {
   padding: 20px ;
   position: absolute;
   z-index: 1;
-  top:330%;
+  top:325%;
   left: -275%;
   margin-left: -50px;
   opacity: 0;
@@ -200,6 +200,7 @@ h2 {
   margin-top:17%;
   margin-left: 49%;
   transition: 0.3s;
+  transform: rotate(20deg);
 }
 
 #myImg:hover {opacity: 0.5;}
@@ -281,6 +282,7 @@ h2 {
   margin-top:-5%;
   margin-left: 40%;
   transition: 0.3s;
+  transform: rotate(130deg);
 }
 
 #myImg1:hover {opacity: 0.5;}
@@ -358,6 +360,7 @@ h2 {
   margin-top:-5%;
   margin-left: 56%;
   transition: 0.3s;
+  transform: rotate(-10deg);
 }
 
 #myImg2:hover {opacity: 0.5;}
@@ -435,6 +438,7 @@ h2 {
   margin-top:-5%;
   margin-left: 43%;
   transition: 0.3s;
+  transform: rotate(-20deg);
 }
 
 #myImg3:hover {opacity: 0.5;}
@@ -512,6 +516,7 @@ h2 {
   margin-top:-5%;
   margin-left: 61%;
   transition: 0.3s;
+  transform: rotate(120deg);
 }
 
 #myImg4:hover {opacity: 0.5;}
@@ -589,6 +594,7 @@ h2 {
   margin-top:-5%;
   margin-left: 35%;
   transition: 0.3s;
+  transform: rotate(20deg);
 }
 
 #myImg5:hover {opacity: 0.5;}
@@ -736,7 +742,7 @@ h2 {
   cursor: pointer;
 }
 
-/* ```````````````````````````````````````````````````````````````````````````````````````````````` */
+/* `````````````````````````````````````````purple video``````````````````````````````````` */
 
 #myImg7 {
   /* border-radius: 5px; */
@@ -744,6 +750,8 @@ h2 {
   margin-top:-10%;
   margin-left: 60%;
   transition: 0.3s;
+  transform: rotate(20deg)
+
 }
 
 #myImg7:hover {opacity: 0.5;}
@@ -814,7 +822,7 @@ h2 {
   cursor: pointer;
 }
 
-/* ```````````````````````````````````````````````````````````````````````````````````````````````` */
+/* ``````````````````````````````````````````````````yellow project`````````````````````````````` */
 
 
 #myImg8 {
@@ -823,6 +831,8 @@ h2 {
   margin-top:-10%;
   margin-left: 40%;
   transition: 0.3s;
+  transform: rotate(-20deg)
+
 }
 
 #myImg8:hover {opacity: 0.5;}
