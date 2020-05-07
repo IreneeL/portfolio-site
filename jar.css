@@ -182,13 +182,13 @@ body,html {
   fill: #fbd951;
 }
 
-/* `````````````````````````````````````````````````````````````````````````` */
+/* ````````````````````````````````````````````````````````````pink photo modal`````````````` */
 
 #myImg {
   /* border-radius: 5px; */
   cursor: pointer;
-  margin-top:400px;
-  margin-left: 400px;
+  margin-top:21%;
+  margin-left: 49%;
   transition: 0.3s;
 }
 
@@ -258,46 +258,16 @@ body,html {
   cursor: pointer;
 }
 
-/* ```````````````````````````````````````````````````````````````````````````````````````````````` */
-
-.tt1{
-  position: relative;
-  display: inline-block;
-}
-
-.tt1 .tt11{
-  visibility: hidden;
-  width: 100px;
-  font-size: 20px;
-  background-color: transparent;
-  color: #006699;
-  text-align: center;
-  border:2px solid white;
-  border-radius: 30px;
-  padding: 20px ;
-  position: absolute;
-  z-index: 1;
-  top:100%;
-  left: 50%;
-  margin-left: -50px;
-  opacity: 0;
-  transition: opacity 1%;
-}
-
-.tt1:hover .tt11{
-  visibility: visible;
-  opacity: 1;
-}
 
 
-/* `````````````````````````````````````````````````````````````````````````` */
+/* `````````````````````````````````````````````````````blue````1111111modal````````````````` */
 
 
 #myImg1 {
   /* border-radius: 5px; */
   cursor: pointer;
-  margin-top:400px;
-  margin-left: 400px;
+  margin-top:-5%;
+  margin-left: 40%;
   transition: 0.3s;
 }
 
@@ -367,12 +337,12 @@ body,html {
   cursor: pointer;
 }
 
-/* ```````````````````````````````````````````````````````````````````````````````````````````````` */
+/* ``````````````````````````````````````````````````green``````2222222modal`````````````````````````` */
 #myImg2 {
   /* border-radius: 5px; */
   cursor: pointer;
-  margin-top:10px;
-  margin-left: 300px;
+  margin-top:-5%;
+  margin-left: 56%;
   transition: 0.3s;
 }
 
@@ -442,12 +412,12 @@ body,html {
   cursor: pointer;
 }
 
-/* ```````````````````````````````````````````````````````````````````````````````````````````````` */
+/* ````````````````````````````````````````````````purple`````````333333modal````````````````````` */
 #myImg3 {
   /* border-radius: 5px; */
   cursor: pointer;
-  margin-top:10px;
-  margin-left: 300px;
+  margin-top:-5%;
+  margin-left: 43%;
   transition: 0.3s;
 }
 
@@ -517,12 +487,12 @@ body,html {
   cursor: pointer;
 }
 
-/* ```````````````````````````````````````````````````````````````````````````````````````````````` */
+/* ``````````````````````````````````````````````````yellow```````````444444modal````````````` */
 #myImg4 {
   /* border-radius: 5px; */
   cursor: pointer;
-  margin-top:10px;
-  margin-left: 300px;
+  margin-top:-5%;
+  margin-left: 61%;
   transition: 0.3s;
 }
 
@@ -592,12 +562,12 @@ body,html {
   cursor: pointer;
 }
 
-/* ```````````````````````````````````````````````````````````````````````````````````````````````` */
+/* `````````````````````````````````````````````pink````````````555555modal`````````````````` */
 #myImg5 {
   /* border-radius: 5px; */
   cursor: pointer;
-  margin-top:10px;
-  margin-left: 300px;
+  margin-top:-5%;
+  margin-left: 35%;
   transition: 0.3s;
 }
 
@@ -667,12 +637,12 @@ body,html {
   cursor: pointer;
 }
 
-/* ```````````````````````````````````````````````````````````````````````````````````````````````` */
+/* ``````````````````````````````````````blue``````````````6666666modal``````````````````````````` */
 #myImg6 {
   /* border-radius: 5px; */
   cursor: pointer;
-  margin-top:10px;
-  margin-left: 300px;
+  margin-top:-5%;
+  margin-left: 53%;
   transition: 0.3s;
 }
 
