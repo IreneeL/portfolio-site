@@ -49,7 +49,7 @@ var modalImg2 = document.getElementById("img012");
 var captionText2 = document.getElementById("caption2");
 img2.onclick = function(){
   modal2.style.display = "block";
-  modalImg2.src = "pic/icon.png";
+  modalImg2.src = "pic/web.JPG";
   captionText2.innerHTML = this.alt;
 }
 
